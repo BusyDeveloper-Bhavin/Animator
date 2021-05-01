@@ -1,0 +1,11 @@
+framework module Animator {
+  umbrella header "Animator.h"
+
+  export *
+  module * { export * }
+}
+
+module Animator.Swift {
+    header "Animator-Swift.h"
+    requires objc
+}
