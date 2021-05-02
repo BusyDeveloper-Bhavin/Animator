@@ -208,19 +208,19 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 
-SWIFT_CLASS("_TtC8Animator8Animator")
-@interface Animator : NSObject
+
+SWIFT_CLASS("_TtC8Animator10VBAnimator")
+@interface VBAnimator : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 @class UIViewController;
 @protocol UIViewControllerAnimatedTransitioning;
 
-@interface Animator (SWIFT_EXTENSION(Animator)) <UIViewControllerTransitioningDelegate>
+@interface VBAnimator (SWIFT_EXTENSION(Animator)) <UIViewControllerTransitioningDelegate>
 - (id <UIViewControllerAnimatedTransitioning> _Nullable)animationControllerForPresentedController:(UIViewController * _Nonnull)presented presentingController:(UIViewController * _Nonnull)presenting sourceController:(UIViewController * _Nonnull)source SWIFT_WARN_UNUSED_RESULT;
 - (id <UIViewControllerAnimatedTransitioning> _Nullable)animationControllerForDismissedController:(UIViewController * _Nonnull)dismissed SWIFT_WARN_UNUSED_RESULT;
 @end
-
 
 @class UIView;
 

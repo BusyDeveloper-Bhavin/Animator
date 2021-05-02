@@ -5,13 +5,13 @@
 import Foundation
 import Swift
 import UIKit
-@objc @_inheritsConvenienceInitializers public class Animator : ObjectiveC.NSObject {
+@objc @_inheritsConvenienceInitializers public class VBAnimator : ObjectiveC.NSObject {
   public var animationOptions: UIKit.UIView.KeyframeAnimationOptions
   @objc override dynamic public init()
   public init(direction: Animator.VBDirection)
   @objc deinit
 }
-extension Animator : UIKit.UIViewControllerTransitioningDelegate {
+extension VBAnimator : UIKit.UIViewControllerTransitioningDelegate {
   @objc dynamic public func animationController(forPresented presented: UIKit.UIViewController, presenting: UIKit.UIViewController, source: UIKit.UIViewController) -> UIKit.UIViewControllerAnimatedTransitioning?
   @objc dynamic public func animationController(forDismissed dismissed: UIKit.UIViewController) -> UIKit.UIViewControllerAnimatedTransitioning?
 }

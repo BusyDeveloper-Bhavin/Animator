@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Animator-Swift.h</key>
 		<data>
-		AxhWKGE7Ue+5rQHp3LdoAD2apuQ=
+		3IAlyh2q2IJGhm0nhAb75lnElJI=
 		</data>
 		<key>Headers/Animator.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/Animator.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		v/eiiTeoV9DqOKtu05xjNor4B64=
+		UjuDC3/vdb9K3wvbje7tmUXNHa8=
 		</data>
 		<key>Modules/Animator.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Da2dwaYdHfi+44G3UGWVnCgxkk4=
+		ZtqktfpzwgNqj2m2DVEYqxhGfyc=
 		</data>
 		<key>Modules/Animator.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/Animator.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		v/eiiTeoV9DqOKtu05xjNor4B64=
+		UjuDC3/vdb9K3wvbje7tmUXNHa8=
 		</data>
 		<key>Modules/Animator.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Da2dwaYdHfi+44G3UGWVnCgxkk4=
+		ZtqktfpzwgNqj2m2DVEYqxhGfyc=
 		</data>
 		<key>Modules/Animator.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/Animator.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qkf0FG+fUNynZOxD6q3YnTSPR4M=
+		3dPr6A10o8RSfootqzeea07ZM+Y=
 		</data>
 		<key>Modules/Animator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		X0ii6taZoQ64ufaYW8M897Z3PWs=
+		4NP0V5F6qvTSaLL5hA9UXNJ6NkU=
 		</data>
 		<key>Modules/Animator.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/Animator.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		qkf0FG+fUNynZOxD6q3YnTSPR4M=
+		3dPr6A10o8RSfootqzeea07ZM+Y=
 		</data>
 		<key>Modules/Animator.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		X0ii6taZoQ64ufaYW8M897Z3PWs=
+		4NP0V5F6qvTSaLL5hA9UXNJ6NkU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3ufy/pB1pw7A3U5qU2izjbjH7SaCBs41sTBB/c5yXFw=
+			IHL1WvDifFtHmTaKRNL+wTZbngFhIC97FDuvz2DzPSc=
 			</data>
 		</dict>
 		<key>Headers/Animator.h</key>
@@ -96,14 +96,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CR5wR618ci4TkgXnKh/aSS7tX4LPymhjC0DyzH2oRfo=
+			MFZeBNup5CNaQYkH5VLP9lZp6gsC80qk9T7DZO+lGMg=
 			</data>
 		</dict>
 		<key>Modules/Animator.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lrRr3mplTlNjHaMLpr/rHEAadNFAJtC08ZLoQHpr+Kk=
+			QohTAlk0aMXcESQ2Gtxr8SvpkpMclukU1HezmVaY7C8=
 			</data>
 		</dict>
 		<key>Modules/Animator.swiftmodule/arm64.swiftdoc</key>
@@ -117,14 +117,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CR5wR618ci4TkgXnKh/aSS7tX4LPymhjC0DyzH2oRfo=
+			MFZeBNup5CNaQYkH5VLP9lZp6gsC80qk9T7DZO+lGMg=
 			</data>
 		</dict>
 		<key>Modules/Animator.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lrRr3mplTlNjHaMLpr/rHEAadNFAJtC08ZLoQHpr+Kk=
+			QohTAlk0aMXcESQ2Gtxr8SvpkpMclukU1HezmVaY7C8=
 			</data>
 		</dict>
 		<key>Modules/Animator.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -138,14 +138,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YIBNhNMcjY+HDDNdID2juOwhz7m3i+OSMItcv/aVX40=
+			dO8ydc94VFimkCj9r7750xfHl8GeV3oix3CFjfD9/K8=
 			</data>
 		</dict>
 		<key>Modules/Animator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Lr7MnGZFb+MzNMwmTWjjJTNrn3Us7yKfxwv+eLiDAk=
+			k2w8yVS+CvT1JgeGtWY0fjmy2AzFbPHBIgsrcurjERw=
 			</data>
 		</dict>
 		<key>Modules/Animator.swiftmodule/x86_64.swiftdoc</key>
@@ -159,14 +159,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YIBNhNMcjY+HDDNdID2juOwhz7m3i+OSMItcv/aVX40=
+			dO8ydc94VFimkCj9r7750xfHl8GeV3oix3CFjfD9/K8=
 			</data>
 		</dict>
 		<key>Modules/Animator.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Lr7MnGZFb+MzNMwmTWjjJTNrn3Us7yKfxwv+eLiDAk=
+			k2w8yVS+CvT1JgeGtWY0fjmy2AzFbPHBIgsrcurjERw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
