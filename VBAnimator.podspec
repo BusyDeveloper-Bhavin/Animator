@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "VBAnimator"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "Animator helps you to adding animation for presenting controller"
   spec.description  = <<-DESC
   Animator helps you to adding animation for presenting controller
